@@ -207,9 +207,9 @@ Matt Wolfe curates the **most promising AI tools**—organized by category (prod
 
 ## 🔗 Related “Awesome” Lists
 
-- [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)  
-- [AI Directories](https://github.com/best-of-ai/ai-directories)  
-- [AI Agents Directories](https://github.com/alternbits/awesome-ai-agents-directories)  
+- [The 10 Best AI Newsletters That Will Skyrocket Your Productivity in 2025](https://blog.finxter.com/the-10-best-ai-newsletters-that-will-skyrocket-your-productivity/](https://blog.finxter.com/the-10-best-ai-newsletters-that-will-skyrocket-your-productivity/)
+- [The Best AI Engineering Learning Resources (Curated List)](https://github.com/finxter/AI-Engineering-Learning-Resources/)  
+- [The Top 6 AI Tools That I Can’t Live Without](https://blog.finxter.com/the-top-6-ai-tools-that-i-cant-live-without/)  
 - [Awesome Marketing Newsletters](https://github.com/marketingtoolslist/awesome-marketing-newsletters)  
 
 ---
