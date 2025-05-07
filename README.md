@@ -1,7 +1,5 @@
 # A Curated List of Awesome AI Newsletters
 
-# Awesome AI Newsletters
-
 A curated list of top AI newsletters to boost your productivity and keep you informed about the latest developments in artificial intelligence.
 
 ## Table of Contents
