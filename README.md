@@ -217,3 +217,5 @@ Matt Wolfe curates the **most promising AI tools**—organized by category (prod
 
 *Feel free to ⭐ this repo if you find it useful, and contribute your favorite AI newsletters via pull request!*  
 
+
+- [Signal AI Digest](https://humanintel.github.io/signal-digest-landing/) - AI-curated daily Telegram digest. Set your topics (AI, tech, investing, crypto, world news) and receive 5-10 curated items with source citations every day.
