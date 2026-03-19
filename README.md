@@ -159,7 +159,15 @@ Matt Wolfe curates the **most promising AI tools**—organized by category (prod
 
 ## 3. AI Tools Newsletters
 
-- [Altern AI Tools Newsletter](https://alternainewsletter.substack.com/)  
+- [Altern AI Tools Newsletter](https://alternainewsletter.substack.com/)
+
+### 3.1 Creative AI News: AI Tools for Creators and Builders
+- **Subscribers:** 190+
+- **Frequency:** Weekly
+- **Cost:** Free
+- **Link:** [creativeainews.com](https://www.creativeainews.com)
+
+Covers the latest AI tools for creative professionals -- image generation, video AI, audio synthesis, 3D modeling, and LLM workflows. Each issue includes curated news, deep-dive analyses, tool reviews, and open source spotlights. Built for creators and builders who use AI in their daily work.
 
 ---
 
