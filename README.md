@@ -153,6 +153,7 @@ Matt Wolfe curates the **most promising AI tools**—organized by category (prod
 - [Inside AI](https://inside.com/ai)  
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)  
 - [BuzzRobot AI Newsletter](https://buzzrobot.substack.com/)
+- [AIMiracle MAG](https://aimiracle.ai) - Daily AI news, tool discoveries & tutorials
 - 👉 See more: [HumanRanked.ai Newsletter Category (Best of)](https://humanranked.ai/?category=newsletter)
 
 ---
