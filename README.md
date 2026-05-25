@@ -160,6 +160,7 @@ Matt Wolfe curates the **most promising AI tools**—organized by category (prod
 ## 3. AI Tools Newsletters
 
 - [Altern AI Tools Newsletter](https://alternainewsletter.substack.com/)  
+- [DevAI Semanal](https://devaisemanal.com) — Weekly AI developer tools newsletter in Spanish (Claude Code, Cursor, Copilot, MCP). Automated with Claude API. [Open source](https://github.com/Khavel/devai-newsletter).  
 
 ---
 
