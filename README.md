@@ -197,6 +197,7 @@ Matt Wolfe curates the **most promising AI tools**—organized by category (prod
 - [Machine Learnings](http://subscribe.machinelearnings.co/)  
 - [The ML Engineer Newsletter](https://ethical.institute/mle.html)  
 - [True Positive Weekly](https://aiweekly.substack.com/)  
+- [DiamantAI](https://diamantai.substack.com)  
 
 ---
 
