@@ -193,7 +193,7 @@ Matt Wolfe curates the **most promising AI tools**—organized by category (prod
 - [AI Marketing School](https://aimarketingschool.beehiiv.com/)  
 - [Data Elixir](https://dataelixir.com/) ([Archive](https://dataelixir.com/newsletters/))  
 - [LLMs Research](https://www.llmsresearch.com/subscribe)  
-- [Artificial Intelligence Weekly](http://aiweekly.co/)  
+- [AI Weekly](https://aiweekly.co/)  
 - [Machine Learnings](http://subscribe.machinelearnings.co/)  
 - [The ML Engineer Newsletter](https://ethical.institute/mle.html)  
 - [True Positive Weekly](https://aiweekly.substack.com/)  
