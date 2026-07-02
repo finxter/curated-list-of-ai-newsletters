@@ -197,6 +197,7 @@ Matt Wolfe curates the **most promising AI tools**—organized by category (prod
 - [Machine Learnings](http://subscribe.machinelearnings.co/)  
 - [The ML Engineer Newsletter](https://ethical.institute/mle.html)  
 - [True Positive Weekly](https://aiweekly.substack.com/)  
+- [iamin.digital](https://iamin.digital/) — Weekly French AI newsletter for SMBs: glossaire IA, workflows n8n concrets, sans hype. Guide + 12 workflows importables.
 
 ---
 
