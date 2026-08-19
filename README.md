@@ -166,6 +166,7 @@ Matt Wolfe curates the **most promising AI tools**—organized by category (prod
 ## 4. AI Agents Newsletters
 
 - [AI Agents Simplified](https://aiagentssimplified.substack.com/)  
+- [The Autonomous Edge](https://buttondown.com/TheAutonomousEdge)  
 
 ---
 
@@ -216,4 +217,3 @@ Matt Wolfe curates the **most promising AI tools**—organized by category (prod
 ---
 
 *Feel free to ⭐ this repo if you find it useful, and contribute your favorite AI newsletters via pull request!*  
-
