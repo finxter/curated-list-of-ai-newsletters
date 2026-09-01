@@ -142,6 +142,15 @@ Matt Wolfe curates the **most promising AI tools**—organized by category (prod
 
 ## 2. General AI Newsletters
 
+### AI Newsroom by Classwise.io
+
+- **Frequency:** Daily
+- **Cost:** Free
+- **Subscribe:** [classwise.io/subscribe](https://classwise.io/subscribe)
+- **Archive:** [classwise.io/daily](https://classwise.io/daily)
+
+AI Newsroom tracks important AI developments, verifies the facts against direct sources, and explains why each story matters in a concise daily briefing.
+
 - [Altern Newsletter](http://newsletter.altern.ai)  
 - [There’s an AI Newsletter](https://newsletter.theresanai.com)  
 - [Not A Bot](https://www.notabot.tech/)  
@@ -216,4 +225,3 @@ Matt Wolfe curates the **most promising AI tools**—organized by category (prod
 ---
 
 *Feel free to ⭐ this repo if you find it useful, and contribute your favorite AI newsletters via pull request!*  
-
