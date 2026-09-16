@@ -142,6 +142,7 @@ Matt Wolfe curates the **most promising AI tools**—organized by category (prod
 
 ## 2. General AI Newsletters
 
+- [AI Tools Radar](https://aitoolsradar.com/en/newsletter)  
 - [Altern Newsletter](http://newsletter.altern.ai)  
 - [There’s an AI Newsletter](https://newsletter.theresanai.com)  
 - [Not A Bot](https://www.notabot.tech/)  
@@ -216,4 +217,3 @@ Matt Wolfe curates the **most promising AI tools**—organized by category (prod
 ---
 
 *Feel free to ⭐ this repo if you find it useful, and contribute your favorite AI newsletters via pull request!*  
-
